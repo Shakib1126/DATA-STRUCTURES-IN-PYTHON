@@ -15,7 +15,7 @@ Phone- +91989282306
 A repo with all the codes for different data structures implemented using Python Language.
 The Data structures include
 
-1.Stack
+  1.Stack
 
 2. Queue
 
